@@ -1,5 +1,5 @@
 
-# Guía Completa de Programación en C# Por Campanella
+# Guía de Programación en C# Por Campanella
 
 ¡Bienvenido a esta guía de referencia sobre C#! Aquí exploraremos varios temas fundamentales con ejemplos prácticos y explicaciones detalladas. Este documento está diseñado para ayudarte a comprender y dominar conceptos como **arrays**, **métodos**, **strings**, **StringBuilder**, **bucles** y más.
 
@@ -23,13 +23,23 @@ Un **array** en C# es una estructura que almacena múltiples valores del mismo t
 
 ```csharp
 // Declaración y asignación de un array
-int[] numeros = { 1, 2, 3, 4, 5 };
+int[] numeros = { 1, 2, 3, 4, 5 };//una forma de inicializarla
 
-// Iterar sobre un array
+// Iterar sobre un array usando foreach , de igual forma podemos hacerlo con for
 foreach (int numero in numeros)
 {
     Console.WriteLine(numero);
 }
+```
+```csharp
+  // Declaramos e inicializamos un array
+        int[] numeros = { 1, 2, 3, 4, 5 };
+
+        // Usamos un bucle for para recorrer el array
+        for (int i = 0; i < numeros.Length; i++)
+        {
+            Console.WriteLine($"Elemento en el índice {i}: {numeros[i]}");
+        }
 ```
 
 ### Operaciones Comunes
@@ -261,9 +271,9 @@ switch (valor)
 
 ## Conclusión
 
-Esta guía proporciona una introducción sólida a algunos conceptos clave de C#. Continúa practicando y profundizando en cada tema para dominar este lenguaje. ¡C# es una herramienta poderosa y versátil!
+Esta guía proporciona una introducción sólida a algunos conceptos clave de C#. 
 
-se trata de una guia facil para temario primer timestre DAM
+Se trata de una guia facil para temario primer timestre DAM colaboradora Dayana.
 
 
 
