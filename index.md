@@ -1,5 +1,5 @@
 
-# Guía Completa de Programación en C#
+# Guía Completa de Programación en C# Por Campanella
 
 ¡Bienvenido a esta guía de referencia sobre C#! Aquí exploraremos varios temas fundamentales con ejemplos prácticos y explicaciones detalladas. Este documento está diseñado para ayudarte a comprender y dominar conceptos como **arrays**, **métodos**, **strings**, **StringBuilder**, **bucles** y más.
 
@@ -263,17 +263,8 @@ switch (valor)
 
 Esta guía proporciona una introducción sólida a algunos conceptos clave de C#. Continúa practicando y profundizando en cada tema para dominar este lenguaje. ¡C# es una herramienta poderosa y versátil!
 
-¿Dudas o sugerencias? ¡No dudes en comentar!
+se trata de una guia facil para temario primer timestre DAM
 
----
 
-### Estilos aplicados
 
-- **Listas numeradas** y **listas con viñetas** para organizar los temas.
-- **Encabezados** para estructurar la información.
-- **Fragmentos de código** para los ejemplos, con la sintaxis resaltada.
-- **Textos en negrita y cursiva** para resaltar puntos importantes.
-
----
-
-Este archivo es ideal para integrarlo en tu repositorio de GitHub y compartir tu conocimiento sobre C#. ¡Espero que sea útil!
+Este archivo a sido creado por campanella
